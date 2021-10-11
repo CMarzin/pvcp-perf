@@ -14,6 +14,7 @@ module.exports = {
 		"https://www.centerparcs.be/",
 		"https://www.centerparcs.ch/",
 		"https://www.centerparcs.de/",
+		"https://www.centerparcs.co.uk",
 		"https://www.centerparcs.nl/",
 		"https://www.pierreetvacances.com/"
 	]
