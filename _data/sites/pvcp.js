@@ -13,13 +13,10 @@ module.exports = {
 		"https://www.centerparcs.fr/",
 		"https://www.centerparcs.be/be-wl",
 		"https://www.centerparcs.be/be-vl",
-		"https://www.centerparcs.be/ch-cf",
-		"https://www.centerparcs.be/ch-cd",
+		"https://www.centerparcs.ch/ch-cf",
+		"https://www.centerparcs.ch/ch-cd",
 		"https://www.centerparcs.de/",
 		"https://www.centerparcs.nl/",
-		"https://www.centerparcs.eu/",
-		"https://www.centerparcs.co.uk/",
-		"https://www.centerparcs.pl",
 		"https://www.pierreetvacances.com/"
 	]
 };
