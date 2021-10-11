@@ -11,10 +11,8 @@ module.exports = {
 	},
 	urls: [
 		"https://www.centerparcs.fr/",
-		"https://www.centerparcs.be/be-wl",
-		"https://www.centerparcs.be/be-vl",
-		"https://www.centerparcs.ch/ch-cf",
-		"https://www.centerparcs.ch/ch-cd",
+		"https://www.centerparcs.be/",
+		"https://www.centerparcs.ch/",
 		"https://www.centerparcs.de/",
 		"https://www.centerparcs.nl/",
 		"https://www.pierreetvacances.com/"
