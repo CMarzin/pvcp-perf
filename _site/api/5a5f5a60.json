@@ -1,0 +1,50 @@
+{
+  "url": "https://www.centerparcs.fr/",
+  "requestedUrl": "https://www.centerparcs.fr/",
+  "timestamp": 1634026040120,
+  "ranks": {
+    "hundos": 7,
+    "performance": 5,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.51,
+    "bestPractices": null,
+    "seo": 0.82,
+    "total": 150
+  },
+  "firstContentfulPaint": 3715.624999999999,
+  "speedIndex": 7815.543612139711,
+  "largestContentfulPaint": 12083.623323883057,
+  "totalBlockingTime": 13708.410000000003,
+  "cumulativeLayoutShift": 0.08026991971333822,
+  "timeToInteractive": 30011.611,
+  "maxPotentialFirstInputDelay": 2062,
+  "timeToFirstByte": 130.83099999999968,
+  "weight": {
+    "summary": "301 requests • 2,724 KiB",
+    "total": 2789326,
+    "image": 245681,
+    "imageCount": 114,
+    "script": 2105071,
+    "scriptCount": 77,
+    "document": 165664,
+    "font": 161068,
+    "fontCount": 41,
+    "stylesheet": 73948,
+    "stylesheetCount": 4,
+    "thirdParty": 2469278,
+    "thirdPartyCount": 292
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1686,
+    "violations": 140
+  }
+}

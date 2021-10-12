@@ -1,0 +1,50 @@
+{
+  "url": "https://www.pierreetvacances.com/",
+  "requestedUrl": "https://www.pierreetvacances.com/",
+  "timestamp": 1634026543725,
+  "ranks": {
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.17,
+    "accessibility": 0.73,
+    "bestPractices": null,
+    "seo": 0.88,
+    "total": 178
+  },
+  "firstContentfulPaint": 4133.712,
+  "speedIndex": 6473.105269402707,
+  "largestContentfulPaint": 8333.1935,
+  "totalBlockingTime": 8997.025499999998,
+  "cumulativeLayoutShift": 0.17333984375,
+  "timeToInteractive": 23924.667,
+  "maxPotentialFirstInputDelay": 1700.000000000001,
+  "timeToFirstByte": 196.51800000000003,
+  "weight": {
+    "summary": "262 requests • 2,168 KiB",
+    "total": 2220202,
+    "image": 76171,
+    "imageCount": 54,
+    "script": 1734723,
+    "scriptCount": 72,
+    "document": 114417,
+    "font": 176146,
+    "fontCount": 47,
+    "stylesheet": 83298,
+    "stylesheetCount": 4,
+    "thirdParty": 1403327,
+    "thirdPartyCount": 191
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 942,
+    "violations": 101
+  }
+}

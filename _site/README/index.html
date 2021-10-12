@@ -1,0 +1,41 @@
+<h1>speedlify</h1>
+<p>After you make a fast web site, keep it fast by measuring it over time. Read <a href="https://www.zachleat.com/web/speedlify/">Use Speedlify to Continuously Measure Site Performance</a>. Created by <a href="https://www.zachleat.com/">@zachleat</a>.</p>
+<ul>
+<li>Requires Node 12+</li>
+<li>Each file in <code>_data/sites/*.js</code> is a category and contains a list of sites for comparison.</li>
+</ul>
+<h2>Run locally</h2>
+<p><em>After cloning you’ll probably want to delete the initial <code>_data/sites/*.js</code> files and create your own file with a list of your own site URLs!</em></p>
+<pre><code>npm install
+npm run test-pages
+npm run start
+</code></pre>
+<h2>Related</h2>
+<ul>
+<li><a href="https://www.zachleat.com/web/eleventy-leaderboard-speedlify/">The Eleventy Leaderboards</a> are running on Speedlify</li>
+<li><a href="https://www.speedlify.dev/">speedlify.dev</a> shows some sample categories</li>
+<li>Use the <a href="https://github.com/zachleat/speedlify-score"><code>&lt;speedlify-score&gt;</code> component</a> to show your scores on your page. Read more at <a href="https://www.zachleat.com/web/lighthouse-in-footer/">I added Lighthouse Scores to my Site’s Footer and You Can Too</a></li>
+<li>The <a href="https://www.11ty.dev/docs/starter/">Eleventy Starter Projects list</a> shows Lighthouse scores from Speedlify. Read more at <a href="https://www.zachleat.com/web/11ty-lighthouse/">The Lighthouse Scores Will Continue Until Morale Improves</a>.</li>
+</ul>
+<h2>Deploy to Netlify</h2>
+<p>Can run directly on Netlify (including your tests) and will save the results to a Netlify build cache (via Netlify Build Plugins, see <code>plugins/keep-data-cache/</code>).</p>
+<p><em>After cloning you’ll probably want to delete the initial <code>_data/sites/*.js</code> files and create your own file with a list of your own site URLs!</em></p>
+<p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/zachleat/speedlify"><img src="https://www.netlify.com/img/deploy/button.svg" width="146" height="32"></a></p>
+<p>Speedlify will also save your data to <code>/results.zip</code> so that you can download later. Though this has proved to be unnecessary so far, it does serve as a fallback backup mechanism in case the Netlify cache is lost. Just look up your previous build URL and download the data to restore.</p>
+<p><a href="https://app.netlify.com/sites/speedlify/deploys"><img src="https://api.netlify.com/api/v1/badges/7298a132-e366-460a-a4da-1ea352a4e790/deploy-status" alt="Netlify Status"></a></p>
+<ul>
+<li><strong>Run every day or week</strong>: You can set Speedlify to run at a specified interval using a Netlify Build Hook, read more on the Eleventy docs: <a href="https://www.11ty.dev/docs/quicktips/netlify-ifttt/">Quick Tip #008—Trigger a Netlify Build Every Day with IFTTT</a>.</li>
+</ul>
+<h2>Known Limitations</h2>
+<ul>
+<li>If you change a URL to remove a redirect (to remove or add a <code>www.</code>, moved domains, etc), you probably want to delete the old URL’s data otherwise you’ll have two entries in the results list.</li>
+<li>When running on Netlify, a single category has a max limit on the number of sites it can test, upper bound on how many tests it can complete in the 15 minute Netlify build limit.</li>
+<li>The same URL cannot be listed in two different categories (yet).</li>
+</ul>
+<h2>Pay for something better</h2>
+<p>Speedlify is intended as a stepping stone to more robust performance monitoring solutions like:</p>
+<ul>
+<li><a href="https://speedcurve.com/">SpeedCurve</a></li>
+<li><a href="https://calibreapp.com/">Calibre</a></li>
+<li><a href="https://www.debugbear.com/">DebugBear</a></li>
+</ul>

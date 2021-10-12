@@ -1,0 +1,62 @@
+{
+  "https://www.centerparcs.fr/": {
+    "requestedUrl": "https://www.centerparcs.fr/",
+    "url": "https://www.centerparcs.fr/",
+    "hash": "5a5f5a60",
+    "categories": []
+  },
+  "https://www.pierreetvacances.com/": {
+    "requestedUrl": "https://www.pierreetvacances.com/",
+    "url": "https://www.pierreetvacances.com/",
+    "hash": "6091a90b",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.co.uk/": {
+    "requestedUrl": "https://www.centerparcs.co.uk/",
+    "url": "https://www.centerparcs.co.uk/",
+    "hash": "75a5fb48",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.ch/": {
+    "requestedUrl": "https://www.centerparcs.ch/",
+    "url": "https://www.centerparcs.ch/",
+    "hash": "8a99097f",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.de/": {
+    "requestedUrl": "https://www.centerparcs.de/",
+    "url": "https://www.centerparcs.de/",
+    "hash": "9445d755",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.be/": {
+    "requestedUrl": "https://www.centerparcs.be/",
+    "url": "https://www.centerparcs.be/",
+    "hash": "9e3dc3d3",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.nl/": {
+    "requestedUrl": "https://www.centerparcs.nl/",
+    "url": "https://www.centerparcs.nl/",
+    "hash": "c157acb6",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  }
+}
