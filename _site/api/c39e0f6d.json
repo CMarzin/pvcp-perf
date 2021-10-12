@@ -1,0 +1,50 @@
+{
+  "url": "https://eshop-sg.martell.com/",
+  "requestedUrl": "https://eshop-sg.martell.com/",
+  "timestamp": 1633682683620,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.27,
+    "accessibility": 0.89,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 280
+  },
+  "firstContentfulPaint": 2110.8769999999995,
+  "speedIndex": 5824.98650842479,
+  "largestContentfulPaint": 7418.766999999999,
+  "totalBlockingTime": 1372.5,
+  "cumulativeLayoutShift": 0.6171314565870496,
+  "timeToInteractive": 14219.280000000002,
+  "maxPotentialFirstInputDelay": 575,
+  "timeToFirstByte": 151.472,
+  "weight": {
+    "summary": "93 requests • 1,735 KiB",
+    "total": 1776372,
+    "image": 299372,
+    "imageCount": 16,
+    "script": 1046720,
+    "scriptCount": 44,
+    "document": 80840,
+    "font": 237141,
+    "fontCount": 7,
+    "stylesheet": 86008,
+    "stylesheetCount": 6,
+    "thirdParty": 1741874,
+    "thirdPartyCount": 92
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 700,
+    "violations": 17
+  }
+}

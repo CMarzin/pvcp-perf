@@ -1,0 +1,50 @@
+{
+  "url": "https://www.posca.com/fr/",
+  "requestedUrl": "https://www.posca.com/fr/",
+  "timestamp": 1633682731299,
+  "ranks": {
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.19,
+    "accessibility": 0.78,
+    "bestPractices": 0.67,
+    "seo": 0.92,
+    "total": 256
+  },
+  "firstContentfulPaint": 3929.4934999999996,
+  "speedIndex": 9585.636605006548,
+  "largestContentfulPaint": 15462.923499999999,
+  "totalBlockingTime": 998,
+  "cumulativeLayoutShift": 0.08220485814412436,
+  "timeToInteractive": 36345.73949999999,
+  "maxPotentialFirstInputDelay": 462,
+  "timeToFirstByte": 1252.9789999999998,
+  "weight": {
+    "summary": "142 requests • 18,694 KiB",
+    "total": 19142896,
+    "image": 17311345,
+    "imageCount": 89,
+    "script": 1493551,
+    "scriptCount": 25,
+    "document": 84646,
+    "font": 129135,
+    "fontCount": 6,
+    "stylesheet": 121090,
+    "stylesheetCount": 10,
+    "thirdParty": 1643682,
+    "thirdPartyCount": 38
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 2288,
+    "violations": 97
+  }
+}

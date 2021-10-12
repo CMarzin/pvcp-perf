@@ -1,0 +1,45 @@
+{
+  "url": "http://www.colette.fr/",
+  "requestedUrl": "http://www.colette.fr/",
+  "timestamp": 1633682426821,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 10,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": null,
+    "accessibility": 0.73,
+    "bestPractices": 0.93,
+    "seo": 0.64,
+    "total": 230
+  },
+  "firstContentfulPaint": 625.808,
+  "speedIndex": 625.808,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 625.808,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 28.18100000000001,
+  "weight": {
+    "summary": "2 requests • 77 KiB",
+    "total": 78983,
+    "image": 77658,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1325,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 4,
+    "violations": 4
+  }
+}

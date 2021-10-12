@@ -1,0 +1,50 @@
+{
+  "url": "https://www.dragonrouge.com/",
+  "requestedUrl": "https://www.dragonrouge.com/",
+  "timestamp": 1633682633844,
+  "ranks": {
+    "hundos": 9,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.56,
+    "accessibility": 0.87,
+    "bestPractices": null,
+    "seo": 0.93,
+    "total": 236
+  },
+  "firstContentfulPaint": 3404.058000000001,
+  "speedIndex": 5009.331139343573,
+  "largestContentfulPaint": 7290.275000000004,
+  "totalBlockingTime": 160.5,
+  "cumulativeLayoutShift": 0.06251333003573947,
+  "timeToInteractive": 8721.284500000003,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 18.692000000000007,
+  "weight": {
+    "summary": "60 requests • 1,031 KiB",
+    "total": 1055749,
+    "image": 377352,
+    "imageCount": 26,
+    "script": 487601,
+    "scriptCount": 13,
+    "document": 16551,
+    "font": 117389,
+    "fontCount": 9,
+    "stylesheet": 55240,
+    "stylesheetCount": 3,
+    "thirdParty": 276830,
+    "thirdPartyCount": 17
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 563,
+    "violations": 24
+  }
+}
