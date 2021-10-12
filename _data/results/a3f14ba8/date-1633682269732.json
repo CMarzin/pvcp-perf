@@ -1,0 +1,43 @@
+{
+  "url": "https://mobile.colorz.fr/",
+  "requestedUrl": "https://www.colorz.fr/#!/",
+  "timestamp": 1633682333392,
+  "ranks": {
+    "hundos": 8,
+    "performance": 11,
+    "accessibility": 11,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": null,
+    "accessibility": 0.59,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 237
+  },
+  "firstContentfulPaint": 2202.9410000000003,
+  "speedIndex": 3555.489893589981,
+  "cumulativeLayoutShift": 0,
+  "maxPotentialFirstInputDelay": 144,
+  "timeToFirstByte": 358.544,
+  "weight": {
+    "summary": "82 requests • 3,570 KiB",
+    "total": 3655318,
+    "image": 3351714,
+    "imageCount": 67,
+    "script": 115186,
+    "scriptCount": 2,
+    "document": 7916,
+    "font": 162238,
+    "fontCount": 3,
+    "stylesheet": 16734,
+    "stylesheetCount": 6,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 1161,
+    "violations": 161
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://www.orange.lu/fr/",
+  "requestedUrl": "https://www.orange.lu/fr/",
+  "timestamp": 1633682286555,
+  "ranks": {
+    "hundos": 5,
+    "performance": 6,
+    "accessibility": 1,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.9,
+    "bestPractices": 0.6,
+    "seo": 0.86,
+    "total": 257
+  },
+  "firstContentfulPaint": 3264.71,
+  "speedIndex": 7811.697970521211,
+  "largestContentfulPaint": 8501.631,
+  "totalBlockingTime": 1527.0000000000064,
+  "cumulativeLayoutShift": 0.014447822570800782,
+  "timeToInteractive": 19018.612499999996,
+  "maxPotentialFirstInputDelay": 454,
+  "timeToFirstByte": 48.91299999999998,
+  "weight": {
+    "summary": "285 requests • 4,286 KiB",
+    "total": 4388547,
+    "image": 2317946,
+    "imageCount": 57,
+    "script": 1622470,
+    "scriptCount": 180,
+    "document": 53099,
+    "font": 154543,
+    "fontCount": 4,
+    "stylesheet": 204967,
+    "stylesheetCount": 11,
+    "thirdParty": 3494980,
+    "thirdPartyCount": 97
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1414,
+    "violations": 58
+  }
+}

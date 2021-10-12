@@ -1,0 +1,50 @@
+{
+  "url": "https://www.yanncouvreur.com/",
+  "requestedUrl": "https://www.yanncouvreur.com/",
+  "timestamp": 1633682674112,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 6,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.25,
+    "accessibility": 0.79,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 276
+  },
+  "firstContentfulPaint": 2620.226,
+  "speedIndex": 8802.60097625574,
+  "largestContentfulPaint": 11225.510999999999,
+  "totalBlockingTime": 1246,
+  "cumulativeLayoutShift": 0.001352273729112413,
+  "timeToInteractive": 12302.237398590089,
+  "maxPotentialFirstInputDelay": 946,
+  "timeToFirstByte": 465.549,
+  "weight": {
+    "summary": "59 requests • 2,478 KiB",
+    "total": 2537687,
+    "image": 884918,
+    "imageCount": 7,
+    "script": 770074,
+    "scriptCount": 20,
+    "document": 100766,
+    "font": 171884,
+    "fontCount": 7,
+    "stylesheet": 64333,
+    "stylesheetCount": 6,
+    "thirdParty": 2456598,
+    "thirdPartyCount": 57
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1311,
+    "violations": 44
+  }
+}

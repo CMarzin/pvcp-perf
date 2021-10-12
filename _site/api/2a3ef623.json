@@ -1,0 +1,50 @@
+{
+  "url": "https://www.centerparcs.be/be-vl",
+  "requestedUrl": "https://www.centerparcs.be/ch-cf",
+  "timestamp": 1633940634941,
+  "ranks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.22,
+    "accessibility": 0.7,
+    "bestPractices": null,
+    "seo": 0.92,
+    "total": 184
+  },
+  "firstContentfulPaint": 3352.0910000000003,
+  "speedIndex": 6033.884983735878,
+  "largestContentfulPaint": 12734.957,
+  "totalBlockingTime": 2026.423499999998,
+  "cumulativeLayoutShift": 0.010456469429863825,
+  "timeToInteractive": 22262.586499999998,
+  "maxPotentialFirstInputDelay": 839,
+  "timeToFirstByte": 130.94299999999998,
+  "weight": {
+    "summary": "238 requests • 2,609 KiB",
+    "total": 2671771,
+    "image": 227254,
+    "imageCount": 95,
+    "script": 2088862,
+    "scriptCount": 72,
+    "document": 129927,
+    "font": 100774,
+    "fontCount": 9,
+    "stylesheet": 83953,
+    "stylesheetCount": 6,
+    "thirdParty": 2544649,
+    "thirdPartyCount": 230
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1450,
+    "violations": 126
+  }
+}

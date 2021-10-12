@@ -1,0 +1,50 @@
+{
+  "url": "https://www.bonne-maman.com/",
+  "requestedUrl": "https://www.bonne-maman.com/",
+  "timestamp": 1633682325515,
+  "ranks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.21,
+    "accessibility": 0.78,
+    "bestPractices": 0.6,
+    "seo": 0.84,
+    "total": 243
+  },
+  "firstContentfulPaint": 2660.8499999999995,
+  "speedIndex": 10517.41778387449,
+  "largestContentfulPaint": 15842.817999999996,
+  "totalBlockingTime": 1385.9999999999998,
+  "cumulativeLayoutShift": 0.0032002271016438803,
+  "timeToInteractive": 17076.40399999999,
+  "maxPotentialFirstInputDelay": 1482,
+  "timeToFirstByte": 22.300999999999988,
+  "weight": {
+    "summary": "327 requests • 2,228 KiB",
+    "total": 2281977,
+    "image": 859663,
+    "imageCount": 39,
+    "script": 909030,
+    "scriptCount": 248,
+    "document": 52114,
+    "font": 332340,
+    "fontCount": 9,
+    "stylesheet": 71090,
+    "stylesheetCount": 1,
+    "thirdParty": 734662,
+    "thirdPartyCount": 50
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1414,
+    "violations": 36
+  }
+}

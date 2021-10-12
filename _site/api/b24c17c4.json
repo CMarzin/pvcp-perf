@@ -1,0 +1,50 @@
+{
+  "url": "https://www.lanvin.com/fr/",
+  "requestedUrl": "https://www.lanvin.com/",
+  "timestamp": 1633682413637,
+  "ranks": {
+    "hundos": 1,
+    "performance": 3,
+    "accessibility": 5,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.48,
+    "accessibility": 0.79,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 293
+  },
+  "firstContentfulPaint": 1765.2109999999998,
+  "speedIndex": 16883.52461259624,
+  "largestContentfulPaint": 2135.4109999999996,
+  "totalBlockingTime": 1047.5,
+  "cumulativeLayoutShift": 0.0000939059787326389,
+  "timeToInteractive": 27527.38949999999,
+  "maxPotentialFirstInputDelay": 415,
+  "timeToFirstByte": 30.146,
+  "weight": {
+    "summary": "116 requests • 5,779 KiB",
+    "total": 5918115,
+    "image": 3253367,
+    "imageCount": 37,
+    "script": 2097877,
+    "scriptCount": 41,
+    "document": 18319,
+    "font": 287171,
+    "fontCount": 10,
+    "stylesheet": 135475,
+    "stylesheetCount": 10,
+    "thirdParty": 1036909,
+    "thirdPartyCount": 49
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 910,
+    "violations": 28
+  }
+}
