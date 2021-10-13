@@ -8,15 +8,6 @@
     ],
     "vertical": "pvcp"
   },
-  "https://www.centerparcs.be/ch-cf": {
-    "requestedUrl": "https://www.centerparcs.be/ch-cf",
-    "url": "https://www.centerparcs.be/be-vl",
-    "hash": "2a3ef623",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
-  },
   "https://www.posca.com/fr/": {
     "requestedUrl": "https://www.posca.com/fr/",
     "url": "https://www.posca.com/fr/",
@@ -26,10 +17,10 @@
     ],
     "vertical": "pvcp"
   },
-  "https://www.orange.lu/fr/": {
-    "requestedUrl": "https://www.orange.lu/fr/",
-    "url": "https://www.orange.lu/fr/",
-    "hash": "59792e9e",
+  "https://www.centerparcs.be/ch-cf": {
+    "requestedUrl": "https://www.centerparcs.be/ch-cf",
+    "url": "https://www.centerparcs.be/be-vl",
+    "hash": "2a3ef623",
     "categories": [
       "pvcp"
     ],
@@ -40,6 +31,15 @@
     "url": "https://www.centerparcs.fr/",
     "hash": "5a5f5a60",
     "categories": []
+  },
+  "https://www.orange.lu/fr/": {
+    "requestedUrl": "https://www.orange.lu/fr/",
+    "url": "https://www.orange.lu/fr/",
+    "hash": "59792e9e",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
   },
   "https://www.pierreetvacances.com/": {
     "requestedUrl": "https://www.pierreetvacances.com/",
@@ -59,24 +59,6 @@
     ],
     "vertical": "pvcp"
   },
-  "https://www.dragonrouge.com/": {
-    "requestedUrl": "https://www.dragonrouge.com/",
-    "url": "https://www.dragonrouge.com/",
-    "hash": "86750eb6",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
-  },
-  "https://www.centerparcs.ch/": {
-    "requestedUrl": "https://www.centerparcs.ch/",
-    "url": "https://www.centerparcs.ch/",
-    "hash": "8a99097f",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
-  },
   "https://www.yanncouvreur.com/": {
     "requestedUrl": "https://www.yanncouvreur.com/",
     "url": "https://www.yanncouvreur.com/",
@@ -86,10 +68,28 @@
     ],
     "vertical": "pvcp"
   },
+  "https://www.dragonrouge.com/": {
+    "requestedUrl": "https://www.dragonrouge.com/",
+    "url": "https://www.dragonrouge.com/",
+    "hash": "86750eb6",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
   "https://www.centerparcs.de/": {
     "requestedUrl": "https://www.centerparcs.de/",
     "url": "https://www.centerparcs.de/",
     "hash": "9445d755",
+    "categories": [
+      "pvcp"
+    ],
+    "vertical": "pvcp"
+  },
+  "https://www.centerparcs.ch/": {
+    "requestedUrl": "https://www.centerparcs.ch/",
+    "url": "https://www.centerparcs.ch/",
+    "hash": "8a99097f",
     "categories": [
       "pvcp"
     ],
@@ -131,19 +131,19 @@
     ],
     "vertical": "pvcp"
   },
-  "https://www.centerparcs.eu/": {
-    "requestedUrl": "https://www.centerparcs.eu/",
-    "url": "https://www.centerparcs.eu/",
-    "hash": "a65b2204",
+  "https://www.colorz.fr/#!/": {
+    "requestedUrl": "https://www.colorz.fr/#!/",
+    "url": "https://mobile.colorz.fr/",
+    "hash": "a3f14ba8",
     "categories": [
       "pvcp"
     ],
     "vertical": "pvcp"
   },
-  "https://www.colorz.fr/#!/": {
-    "requestedUrl": "https://www.colorz.fr/#!/",
-    "url": "https://mobile.colorz.fr/",
-    "hash": "a3f14ba8",
+  "https://www.centerparcs.eu/": {
+    "requestedUrl": "https://www.centerparcs.eu/",
+    "url": "https://www.centerparcs.eu/",
+    "hash": "a65b2204",
     "categories": [
       "pvcp"
     ],
