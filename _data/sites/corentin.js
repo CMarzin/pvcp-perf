@@ -1,6 +1,6 @@
 module.exports = {
-	name: "PVCP", // optional, falls back to object key
-	description: "Liste des sites PVCP",
+	name: "Site Corentin", // optional, falls back to object key
+	description: "Liste des sites perso",
 	options: {
 		frequency: 60 * 23, // 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
@@ -11,12 +11,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.centerparcs.fr/",
-		"https://www.centerparcs.be/",
-		"https://www.centerparcs.ch/",
-		"https://www.centerparcs.de/",
-		"https://www.centerparcs.co.uk",
-		"https://www.centerparcs.nl/",
-		"https://www.pierreetvacances.com/"
+		"https://cocoweb.fr",
 	]
 };
