@@ -1030,7 +1030,7 @@ abbr {
 		margin-bottom: 2em;
 	}
 	.js .layout {
-		grid-template-columns: repeat(auto-fill, 49%);
+		grid-template-columns: repeat(auto-fill, 100%);
 	}
 }
 
@@ -1168,4 +1168,41 @@ abbr {
 }
 .category-stats dd span {
 	font-weight: 100;
+}
+
+.legend__title {
+  border: 1px solid #555;
+  text-align: center;
+}
+
+.layout.legend .legend__lcp {
+  background-color: var(--speedlify-color-1);
+}
+
+.layout.legend .legend__fid {
+  background-color: var(--speedlify-color-2);
+}
+
+.layout.legend .legend__tbt {
+  background-color: var(--speedlify-color-3);
+}
+
+.layout.legend .legend__fcp {
+  background-color: var(--speedlify-color-4);
+}
+.layout.legend .legend__tti {
+  background-color: var(--speedlify-color-6);
+}
+
+.layout.legend {
+  margin-bottom: 2em;
+}
+
+.leaderboard .layout.legend table > tbody > tr > td {
+  font-size: 16px;
+}
+@media (max-width: 37.4375em) { /* 599px */
+  .leaderboard .layout.legend table > tbody > tr > td {
+    font-size: 11px;
+  }
 }

@@ -4,194 +4,218 @@
     "url": "https://fr.peugeot-saveurs.com/fr/",
     "hash": "1e6f2174",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
-  },
-  "https://www.posca.com/fr/": {
-    "requestedUrl": "https://www.posca.com/fr/",
-    "url": "https://www.posca.com/fr/",
-    "hash": "42a8dd8",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.centerparcs.be/ch-cf": {
     "requestedUrl": "https://www.centerparcs.be/ch-cf",
     "url": "https://www.centerparcs.be/be-vl",
     "hash": "2a3ef623",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
-  "https://www.centerparcs.fr/": {
-    "requestedUrl": "https://www.centerparcs.fr/",
-    "url": "https://www.centerparcs.fr/",
-    "hash": "5a5f5a60",
-    "categories": []
+  "https://www.posca.com/fr/": {
+    "requestedUrl": "https://www.posca.com/fr/",
+    "url": "https://www.posca.com/fr/",
+    "hash": "42a8dd8",
+    "categories": [
+      "corentin",
+      "pvcp"
+    ],
+    "vertical": "corentin"
   },
   "https://www.orange.lu/fr/": {
     "requestedUrl": "https://www.orange.lu/fr/",
     "url": "https://www.orange.lu/fr/",
     "hash": "59792e9e",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.pierreetvacances.com/": {
     "requestedUrl": "https://www.pierreetvacances.com/",
     "url": "https://www.pierreetvacances.com/",
     "hash": "6091a90b",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.centerparcs.co.uk/": {
     "requestedUrl": "https://www.centerparcs.co.uk/",
     "url": "https://www.centerparcs.co.uk/",
     "hash": "75a5fb48",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
+  },
+  "https://www.centerparcs.fr/": {
+    "requestedUrl": "https://www.centerparcs.fr/",
+    "url": "https://www.centerparcs.fr/",
+    "hash": "5a5f5a60",
+    "categories": [
+      "corentin"
+    ],
+    "vertical": "corentin"
   },
   "https://www.yanncouvreur.com/": {
     "requestedUrl": "https://www.yanncouvreur.com/",
     "url": "https://www.yanncouvreur.com/",
     "hash": "78b20c2a",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.dragonrouge.com/": {
     "requestedUrl": "https://www.dragonrouge.com/",
     "url": "https://www.dragonrouge.com/",
     "hash": "86750eb6",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
-  },
-  "https://www.centerparcs.de/": {
-    "requestedUrl": "https://www.centerparcs.de/",
-    "url": "https://www.centerparcs.de/",
-    "hash": "9445d755",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.centerparcs.ch/": {
     "requestedUrl": "https://www.centerparcs.ch/",
     "url": "https://www.centerparcs.ch/",
     "hash": "8a99097f",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
+  },
+  "https://www.centerparcs.de/": {
+    "requestedUrl": "https://www.centerparcs.de/",
+    "url": "https://www.centerparcs.de/",
+    "hash": "9445d755",
+    "categories": [
+      "corentin",
+      "pvcp"
+    ],
+    "vertical": "corentin"
   },
   "https://www.centerparcs.be/be-wl": {
     "requestedUrl": "https://www.centerparcs.be/be-wl",
     "url": "https://www.centerparcs.be/be-wl",
     "hash": "9608a062",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "http://www.colette.fr/": {
     "requestedUrl": "http://www.colette.fr/",
     "url": "http://www.colette.fr/",
     "hash": "984e904b",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
-  },
-  "https://www.centerparcs.be/": {
-    "requestedUrl": "https://www.centerparcs.be/",
-    "url": "https://www.centerparcs.be/",
-    "hash": "9e3dc3d3",
-    "categories": [
-      "pvcp"
-    ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.centerparcs.pl/": {
     "requestedUrl": "https://www.centerparcs.pl/",
     "url": "https://www.centerparcs.pl/",
     "hash": "a0d5d28",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.colorz.fr/#!/": {
     "requestedUrl": "https://www.colorz.fr/#!/",
     "url": "https://mobile.colorz.fr/",
     "hash": "a3f14ba8",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
+  },
+  "https://www.centerparcs.be/": {
+    "requestedUrl": "https://www.centerparcs.be/",
+    "url": "https://www.centerparcs.be/",
+    "hash": "9e3dc3d3",
+    "categories": [
+      "corentin",
+      "pvcp"
+    ],
+    "vertical": "corentin"
   },
   "https://www.centerparcs.eu/": {
     "requestedUrl": "https://www.centerparcs.eu/",
     "url": "https://www.centerparcs.eu/",
     "hash": "a65b2204",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://makeityours.chaumet.com/fr/": {
     "requestedUrl": "https://makeityours.chaumet.com/fr/",
     "url": "https://makeityours.chaumet.com/fr/",
     "hash": "aeac9a9f",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.lanvin.com/": {
     "requestedUrl": "https://www.lanvin.com/",
     "url": "https://www.lanvin.com/fr/",
     "hash": "b24c17c4",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.centerparcs.nl/": {
     "requestedUrl": "https://www.centerparcs.nl/",
     "url": "https://www.centerparcs.nl/",
     "hash": "c157acb6",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://eshop-sg.martell.com/": {
     "requestedUrl": "https://eshop-sg.martell.com/",
     "url": "https://eshop-sg.martell.com/",
     "hash": "c39e0f6d",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   },
   "https://www.bonne-maman.com/": {
     "requestedUrl": "https://www.bonne-maman.com/",
     "url": "https://www.bonne-maman.com/",
     "hash": "f82ae106",
     "categories": [
+      "corentin",
       "pvcp"
     ],
-    "vertical": "pvcp"
+    "vertical": "corentin"
   }
 }
