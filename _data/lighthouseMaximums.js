@@ -6,6 +6,7 @@ module.exports = {
     tti: 7300,
     tbt: 600,
     cls: 0.25,
+    ttfb: 600,
   },
   good: {
     fcp: 2336,
@@ -14,7 +15,7 @@ module.exports = {
     tti: 3875,
     tbt: 287,
     cls: 0.1,
+    ttfb: 200,
     // fid: 130,
   },
-  
 };

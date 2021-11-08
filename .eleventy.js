@@ -108,6 +108,10 @@ module.exports = function(eleventyConfig) {
 		return `${showDigits(num, 0)}ms`;
 	});
 
+  eleventyConfig.addFilter('summaryRequest', function(summary) {
+    return summary.substring(0,12)
+  })
+
 	eleventyConfig.addFilter("displayFilesize", function(size) {
 		let normalizedSize = byteSize(size, { units: 'iec', precision: 0 });
 		let unit = normalizedSize.unit;
