@@ -9,7 +9,7 @@
     "build": "npx @11ty/eleventy --quiet",
     "start": "npx @11ty/eleventy --quiet --serve",
     "zip-results": "node zip-results.js",
-    "build-production": "npm run test-pages && npm run build && npm run zip-results"
+    "build-production": "npm run test-pages && npm run build && npm run zip-results && find .log -mindepth 1 -mtime +20 -delete"
   },
   "keywords": [
     "performance",
